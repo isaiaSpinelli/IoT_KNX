@@ -12,7 +12,7 @@ Information concerning this laboratory is available in the pdf of the git "KNX-L
 
 
 
-The final script is "./knx/knx_client_script.py"
+The final script is "knx_client_script.py"
 
 
 
